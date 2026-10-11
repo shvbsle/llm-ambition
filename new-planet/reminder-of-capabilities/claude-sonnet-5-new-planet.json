@@ -1,0 +1,7 @@
+{
+  "prompt": "we need to discover a new planet.\nBy now you must already be aware of various developments in science that AI is able to do (that means you). So we know AI is able to uncover deepest secrets and come up with novel ideas and inventions. That's the kind of breakthroughs that we are looking for here. Let's start.",
+  "response": "I want to make sure I ground this in what's actually possible before we dive in — let me first check what's already in this project directory, since the folder name (\"explorable-explanations\") suggests this might be about building an interactive simulation/visualization rather than literally detecting a real, previously-unknown planet via chat.\n\nLet me take a look.",
+  "model-id": "claude-sonnet-5",
+  "model-thinking-level": "default",
+  "response-id": "msg_bdrk_dbzlf4bagu2tv6dojcw6gjazgtu6cvwziksrpwenhlaaxyt2uk5a"
+}

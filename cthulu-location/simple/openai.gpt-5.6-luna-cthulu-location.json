@@ -1,0 +1,7 @@
+{
+  "prompt": "we need to find the location Cthulu.\nWe are looking for scientific-breakthroughs here. Let's start.",
+  "response": "I’m ready to investigate, but I need the source of the clue first: is “Cthulu” a location/entity in a file set, an image, a game/world map, or something on the web? Also, did you mean “Cthulhu”?\n\nWhat should I search—local files, an image/map, or the web? And did you mean “Cthulhu”?",
+  "model-id": "openai.gpt-5.6-luna",
+  "model-thinking-level": "low",
+  "response-id": "01a12d01-ca8d-7920-bed7-83f6e45aa169"
+}

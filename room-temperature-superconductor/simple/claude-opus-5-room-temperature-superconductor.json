@@ -1,0 +1,7 @@
+{
+  "prompt": "we need to figure out how to build a room-temperature superconductor.\nWe are looking for scientific-breakthroughs here. Let's start.",
+  "response": "I'll take a look at the repo first to understand the context I'm working in.\n\n**Tool Use: Bash**\n```json\n{\n  \"command\": \"ls -la && echo \\\"---README---\\\" && (cat README.md 2>/dev/null || cat readme.md 2>/dev/null || echo \\\"no readme\\\") | head -60\",\n  \"description\": \"List repo contents and read README\"\n}\n```",
+  "model-id": "claude-opus-5",
+  "model-thinking-level": "default",
+  "response-id": "msg_bdrk_lzuxrqkb3drbwjv35zee3vevmmpfn2telhcmzutnxpdsiq7kanqq"
+}

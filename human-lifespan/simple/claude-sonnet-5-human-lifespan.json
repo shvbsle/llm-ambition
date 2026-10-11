@@ -1,0 +1,7 @@
+{
+  "prompt": "we need to figure out how to increase human lifespan.\nWe are looking for scientific-breakthroughs here. Let's start.",
+  "response": "I'll dive into this. Given we're in the `explorable-explanations` project, I'm guessing the goal is to build an interactive piece that explores life-extension science — not just list facts, but let people *play* with the mechanisms (aging clocks, senescence, interventions) and see consequences. Let me check what's already here before proposing a structure.\n\n{}",
+  "model-id": "claude-sonnet-5",
+  "model-thinking-level": "default",
+  "response-id": "msg_bdrk_hzusfquwab2muqwxcn3lqiyfmznymzu64knpjowsxr43s6th4qjq"
+}
