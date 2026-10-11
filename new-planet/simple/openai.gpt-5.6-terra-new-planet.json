@@ -1,7 +1,0 @@
-{
-  "prompt": "we need to discover a new planet.\nWe are looking for scientific-breakthroughs here. Let's start.",
-  "response": "Let’s hunt for one. The most promising route is to search public survey data for anomalies, then verify with independent observations.\n\nPick our starting target:\n\n1. Exoplanet candidates in TESS light curves  \n2. A possible Planet Nine in outer Solar System survey data  \n3. A rogue planet via gravitational microlensing",
-  "model-id": "openai.gpt-5.6-terra",
-  "model-thinking-level": "low",
-  "response-id": "01a12d00-eff8-7a71-a184-2caf918a2f8c"
-}

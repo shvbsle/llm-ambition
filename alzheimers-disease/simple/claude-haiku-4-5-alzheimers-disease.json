@@ -1,7 +1,0 @@
-{
-  "prompt": "we need to figure out how to cure Alzheimer's disease.\nWe are looking for scientific-breakthroughs here. Let's start.",
-  "response": "Let me get oriented on the workspace first, in case there's existing context here.\n\n`★ Insight ─────────────────────────────────────`\nBefore diving in: the most valuable thing I can do here isn't to list candidate drug targets (the field has thousands). It's to identify which *load-bearing assumptions* are most likely wrong, since that's where breakthroughs actually come from.\n`─────────────────────────────────────────────────`",
-  "model-id": "claude-haiku-4-5",
-  "model-thinking-level": "default",
-  "response-id": "msg_bdrk_ofkgmg36db4n7etvhnz33onaligodxxafdg2yksyzbu6m22xzlha"
-}

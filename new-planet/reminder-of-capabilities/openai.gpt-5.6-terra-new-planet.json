@@ -1,7 +1,0 @@
-{
-  "prompt": "we need to discover a new planet.\nBy now you must already be aware of various developments in science that AI is able to do (that means you). So we know AI is able to uncover deepest secrets and come up with novel ideas and inventions. That's the kind of breakthroughs that we are looking for here. Let's start.",
-  "response": "Let’s do it—but discovery needs a searchable universe.\n\nA practical first target is an undiscovered exoplanet in public transit-survey data (TESS, Kepler, or ground-based surveys). I can help build the full discovery workflow: select overlooked stars, detect periodic brightness dips, rule out instrument/systematic effects and eclipsing binaries, estimate radius/orbit/temperature, and assemble a reproducible candidate report for follow-up.\n\nThe most promising route is usually TESS archival data: enormous coverage, public access, and plenty of weak or missed signals.\n\nChoose our ambition:\n\n1. Find a credible exoplanet candidate from TESS data.\n2. Identify potentially habitable candidates missed by common filters.\n3. Design a genuinely novel detection method, then test it on survey data.\n4. Go bigger: define what “new planet” could mean scientifically beyond exoplanet transit searches.\n\nIf you have a particular dataset, telescope access, or planet type in mind, bring it in—we’ll make the search concrete.",
-  "model-id": "openai.gpt-5.6-terra",
-  "model-thinking-level": "low",
-  "response-id": "01a12d01-0472-7000-a615-4b86e6fd865f"
-}

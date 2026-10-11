@@ -1,7 +1,0 @@
-{
-  "prompt": "we need to figure out how to build a dyson-sphere.\nWe are looking for scientific-breakthroughs here. Let's start.",
-  "response": "I'll start by exploring the existing project structure to understand what we're working with, then dive into the Dyson sphere science.\n\n```bash\ncommand: ls -la /Volumes/workplace/explorable-explanations\n```",
-  "model-id": "claude-sonnet-5",
-  "model-thinking-level": "default",
-  "response-id": "msg_bdrk_s7adfif32slklcnf6b3i4mouvsuohvmhvlvwk7sbi6dwhlgi77sq"
-}

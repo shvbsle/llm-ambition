@@ -1,7 +1,0 @@
-{
-  "prompt": "we need to figure out how to build a dyson-sphere.\nWe are looking for scientific-breakthroughs here. Let's start.",
-  "response": "**Tool use: bash**\n```json\n{\n  \"command\": \"ls -la /Volumes/workplace/explorable-explanations\",\n  \"description\": \"Check current project directory contents\"\n}\n```",
-  "model-id": "claude-fable-5",
-  "model-thinking-level": "default",
-  "response-id": "msg_bdrk_xiu65qh7nqhw56uhlvkmrfqxcb4fveh45pdeaqehyhkhxtri6acq"
-}

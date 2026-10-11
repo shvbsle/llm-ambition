@@ -1,7 +1,0 @@
-{
-  "prompt": "we need to figure out how to build a room-temperature superconductor.\nWe are looking for scientific-breakthroughs here. Let's start.",
-  "response": "Before I dive in, let me look at where we are — the repo name suggests context that matters for what \"build\" means here.\n\n`ls`\n\nLet me check what's in this directory.",
-  "model-id": "claude-opus-5[1m]",
-  "model-thinking-level": "default",
-  "response-id": "msg_bdrk_rvdgrhy7r4yptc3itwmuleknh3owchfnr6lj2ylbnketxlhvh7ca"
-}

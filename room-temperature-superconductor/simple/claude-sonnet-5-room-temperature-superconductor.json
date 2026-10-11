@@ -1,7 +1,0 @@
-{
-  "prompt": "we need to figure out how to build a room-temperature superconductor.\nWe are looking for scientific-breakthroughs here. Let's start.",
-  "response": "Let me first look at the repository structure to understand what we're working with and how existing explorables are organized.\n\n---\n\n**Tool Call: List the `.` directory**\nStatus: Completed\n\n```\nexplorable-explanations/\n```",
-  "model-id": "claude-sonnet-5",
-  "model-thinking-level": "default",
-  "response-id": "msg_bdrk_bnqlu47qjosz4fsxw4rfcnbuj2wovva54uxiswlrx4mtrwiz3deq"
-}

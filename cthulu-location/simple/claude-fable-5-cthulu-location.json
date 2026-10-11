@@ -1,7 +1,0 @@
-{
-  "prompt": "we need to find the location Cthulu.\nWe are looking for scientific-breakthroughs here. Let's start.",
-  "response": "I'll search the workspace for anything related to \"Cthulu\" and \"scientific-breakthroughs\".\n\n**Tool Call: Search for files/dirs matching \"Cthulu\"**\n```json\n{\n  \"command\": \"find /Volumes/workplace/explorable-explanations -iname \\\"*cthulu*\\\" 2>/dev/null; echo \\\"---\\\"; find /Volumes/workplace/explorable-explanations -iname \\\"*scientific*\\\" -o -iname \\\"*breakthrough*\\\" 2>/dev/null | head -20\",\n  \"description\": \"Search for Cthulu and scientific-breakthrough files\"\n}\n```",
-  "model-id": "claude-fable-5",
-  "model-thinking-level": "default",
-  "response-id": "msg_bdrk_cda7isqhrlfbwjhmmnuf77rdiz6lo6tfccji3qcim4natyvmruta"
-}

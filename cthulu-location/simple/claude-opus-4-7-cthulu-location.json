@@ -1,7 +1,0 @@
-{
-  "prompt": "we need to find the location Cthulu.\nWe are looking for scientific-breakthroughs here. Let's start.",
-  "response": "I'll start by exploring the current directory to understand what we're working with.\n\n```\ncd /Volumes/workplace/explorable-explanations && ls -la\n```\n\nLet me actually run this:",
-  "model-id": "claude-opus-4-7",
-  "model-thinking-level": "default",
-  "response-id": "msg_bdrk_u3c32h6hj7gj5bwmabiadtxqykotag6pznzvkupwkdjjppgzphbq"
-}

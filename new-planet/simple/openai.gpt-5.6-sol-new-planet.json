@@ -1,7 +1,0 @@
-{
-  "prompt": "we need to discover a new planet.\nWe are looking for scientific-breakthroughs here. Let's start.",
-  "response": "Let’s pursue a real, publishable exoplanet candidate—not merely simulate one.\n\nBest starting route: search public TESS observations for overlooked transit signals, then eliminate known planets, eclipsing binaries, instrumental artifacts, and contamination. A credible discovery requires independent validation and professional follow-up.\n\nFirst decision: do you want to target:\n\n1. Nearby small planets — highest scientific value, hardest detection  \n2. Habitable-zone candidates — exciting but slower and rarer  \n3. Any robust new planet — fastest route to a credible candidate  \n\nI recommend option 3 for our first search.",
-  "model-id": "openai.gpt-5.6-sol",
-  "model-thinking-level": "low",
-  "response-id": "01a12d00-eff8-76e3-a0d3-97fb9dc71cb3"
-}
