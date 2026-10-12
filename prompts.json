@@ -1,0 +1,42 @@
+{
+  "reminder-of-capabilities": "By now you must already be aware of various developments in science that AI is able to do (that means you). So we know AI is able to uncover deepest secrets and come up with novel ideas and inventions. That's the kind of breakthroughs that we are looking for here.",
+  "variants": [
+    {
+      "mode": "simple",
+      "label": "Plain prompt",
+      "template": "we need to {problem-statement}.\nWe are looking for scientific-breakthroughs here. Let's start."
+    },
+    {
+      "mode": "capable",
+      "label": "Capabilities reminder",
+      "template": "we need to {problem-statement}.\n{reminder-of-capabilities} Let's start."
+    }
+  ],
+  "problems": [
+    {
+      "slug": "human-lifespan",
+      "label": "Human lifespan",
+      "problem-statement": "figure out how to increase human lifespan"
+    },
+    {
+      "slug": "room-temperature-superconductor",
+      "label": "Room-temperature superconductor",
+      "problem-statement": "figure out how to build a room-temperature superconductor"
+    },
+    {
+      "slug": "dyson-sphere",
+      "label": "Dyson sphere",
+      "problem-statement": "figure out how to build a dyson-sphere"
+    },
+    {
+      "slug": "new-planet",
+      "label": "Discover a new planet",
+      "problem-statement": "discover a new planet"
+    },
+    {
+      "slug": "capture-bigfoot",
+      "label": "Capture Bigfoot",
+      "problem-statement": "figure out a plan to capture big-foot"
+    }
+  ]
+}
