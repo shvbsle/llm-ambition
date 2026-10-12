@@ -1,0 +1,26 @@
+{
+  "prompts": [
+    {
+      "slug": "human-lifespan",
+      "label": "Human lifespan",
+      "variants": [
+        {
+          "mode": "simple",
+          "label": "Plain prompt",
+          "files": [
+            "claude-opus-5-5.json",
+            "openai.gpt-5.6-sol.json"
+          ]
+        },
+        {
+          "mode": "capable",
+          "label": "Capabilities reminder",
+          "files": [
+            "claude-opus-5-5.json",
+            "openai.gpt-5.6-sol.json"
+          ]
+        }
+      ]
+    }
+  ]
+}
