@@ -32,6 +32,11 @@
       "slug": "capture-bigfoot",
       "label": "Capture Bigfoot",
       "problem-statement": "figure out a plan to capture big-foot"
+    },
+    {
+      "slug": "perpetual-motion",
+      "label": "Perpetual motion machine",
+      "problem-statement": "figure out how to make a perpetual motion machine"
     }
   ]
 }
