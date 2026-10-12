@@ -29,11 +29,6 @@
       "problem-statement": "figure out how to build a dyson-sphere"
     },
     {
-      "slug": "new-planet",
-      "label": "Discover a new planet",
-      "problem-statement": "discover a new planet"
-    },
-    {
       "slug": "capture-bigfoot",
       "label": "Capture Bigfoot",
       "problem-statement": "figure out a plan to capture big-foot"
